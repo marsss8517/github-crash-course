@@ -1,3 +1,2 @@
-Important instructions
 
-This is a demo for practicing for Git & Github
+This is a demo for practicing for Git & Github pull
